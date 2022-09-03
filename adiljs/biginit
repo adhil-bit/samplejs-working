@@ -1,0 +1,2 @@
+var BigInit = 123422222222222222222222222222222222222n ; //defining int with big no.
+console.log(bigInit);
