@@ -1,7 +1,6 @@
+//addition of number with string
 let length = 16;            // number
 
 let lastName = "Johnson";   // strng
 
-console.log(firstName: "John",
-  lastName: "Doe"
-);                          // output
+console.log(length : 16, lastName: "Doe"); // output as concat fn
